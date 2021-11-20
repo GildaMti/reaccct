@@ -11,7 +11,7 @@ export default function App() {
         <br />
         This app was coded by Mozhdeh Matalebi and is open-sourced on
         <a
-          href="https://github.com/GildaMti/reactWeather"
+          href="https://github.com/GildaMti/reaccct"
           target="_blank"
           rel="noreferrer"
         >
